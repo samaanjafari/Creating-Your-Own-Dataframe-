@@ -1,2 +1,4 @@
-# Creating-Your-Own-Dataframe-
-Actually im learning about data analysis and data science and in the processes of it i have been write some code to create your own large data frame anything u want
+- 👋 Hi, I’m @samaanjafari
+- 👀 I’m interested in python and web developing
+- 🌱 I’m currently learning full-stack developing
+- 📫 How to reach me instagram:@saamanjafarii email:samanjfr81@gmail.com
